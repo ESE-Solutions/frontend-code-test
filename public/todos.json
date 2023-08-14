@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Buy fresh vegetables",
+    "description": "Pick up tomatoes, spinach, and bell peppers from the local market."
+  },
+  {
+    "id": 2,
+    "title": "Get dairy products",
+    "description": "Milk, yogurt, and cheddar cheese are on the list."
+  },
+  {
+    "id": 3,
+    "title": "Restock fruits",
+    "description": "Bananas, oranges, and apples are running low."
+  },
+  {
+    "id": 4,
+    "title": "Purchase meat",
+    "description": "Chicken breasts and ground beef are needed for the week's meals."
+  },
+  {
+    "id": 5,
+    "title": "Seafood section",
+    "description": "Shrimps and salmon fillets are on sale, grab some."
+  },
+  {
+    "id": 6,
+    "title": "Cereal & breakfast",
+    "description": "Oats and cereal boxes are almost finished. Also, consider getting honey."
+  },
+  {
+    "id": 7,
+    "title": "Snacks and crisps",
+    "description": "Stock up on some potato chips and pretzels for movie night."
+  },
+  {
+    "id": 8,
+    "title": "Beverages",
+    "description": "Juices for the kids and maybe some soda."
+  },
+  {
+    "id": 9,
+    "title": "Bakery items",
+    "description": "Fresh bread for sandwiches and some croissants for breakfast."
+  },
+  {
+    "id": 10,
+    "title": "Frozen section",
+    "description": "Frozen peas, corn, and some ice cream for dessert."
+  }
+]
